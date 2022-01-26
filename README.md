@@ -1,8 +1,8 @@
 ```
 ##########################################################################
-# Brave & Bing Browser Rewards V1.0                                      #
+# Brave & Bing Browser Rewards V1.1                                      #
 #                                                                        #
-# Made By xCryptoPandax                                                  #
+# Based off https://github.com/xCryptoPandax/Brave-Rewards-Automation, edited by Kaion-Official.                                                 #
 #                                                                        #
 # Use at your own risk - Not responsible for any bans / loss of BAT      #
 ##########################################################################
@@ -14,13 +14,13 @@ Script for Windows (Powershell) and Linux (Bash) that does simple actions within
 
 Instructions
 ----------------------------------------------
-1.) Download Brave
+1.) Download Brave from here :https://brave.com/download/
 	A.) Sign up for the Brave rewards
 	B.) Click the BAT symbol at the end of the address bar and click 'rewards settings'
-	C.) Hit the radio bar and hit 'ad settings' change maximum ads to 5 (Change ad location if you'd like)
+	C.) Hit the radio bar and hit 'ad settings' change maximum ads to 5 or 10  (Change the script values for 10 adds an hour)
 	D.) Scroll over to settings change on start up to 'Open the New Tab Page'
 
-2.) Visit Bing until the Bing icon pops up on the new tab page // This script is made to earn Bing rewards, Sign in with an Microsoft account and click the medal next to the user profile on the main bing page to enable rewards - This will give you up to 50 points a day in searches.
+2.) Visit Bing until the Bing icon pops up on the new tab page // This script is made to earn Bing rewards, Sign in with an Microsoft account and click the medal next to the user profile on the main bing page to enable rewards - This will give you up to 50 points a day in searches. This is a good bonus on top of your brave reward scheme.
 
 3.) Editing the Script: 	
   A.) Download the script for Windows or Linux
@@ -34,8 +34,8 @@ Instructions
       * New Tab cross
       * Close tab (x of first tab)
       * Bing Bookmark on new tabs page
-      * First article on bing homepage
-      * Coordinates of second bing article
+      * First article on a bing link
+      * Coordinates of second bing link
       * Coordinates of the bing search bar
       * Coordinates of white space for script to rest
       * Coordinates of the x'out button
@@ -47,4 +47,4 @@ Instructions
 This should open brave, create a new tab, close the old tab, go to bing, click a news article, then click the next one, click the search bar, enter a number based on what cycle it's on, press enter, sleep for 2 mins before opening a new tab to show current brave balance, then x out in a repeated cycle
  ```
 
-Setup Walkthrough - https://www.youtube.com/watch?v=FKMPjvR4wtM
+Old Setup Walkthrough - https://www.youtube.com/watch?v=FKMPjvR4wtM
