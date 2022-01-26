@@ -1,7 +1,7 @@
 ##########################################################################
-# Brave & Bing Browser Rewards V1.0 - Windows Edition                    #
+# Brave & Bing Browser Rewards V1.1 - Windows Edition                    #
 #                                                                        #
-# Made By xCryptoPandax                                                  #
+# Made By xCryptoPandax, edited by Kaion-Official                                                  #
 #                                                                        #
 # Use at your own risk - Not responsible for any bans / loss of BAT      #
 ##########################################################################
