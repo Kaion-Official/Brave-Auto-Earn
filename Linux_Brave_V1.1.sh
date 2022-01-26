@@ -31,11 +31,11 @@ BraveCTab_Y=0
 BingBookmark_X=0
 BingBookmark_Y=0
 
-#Coordinates of First Bing Article
+#Coordinates of First Bing Link
 BingArticle1_X=0
 BingArticle1_Y=0
 
-#Coordinates of Second Bing Article
+#Coordinates of Second Bing Link
 BingArticle2_X=0
 BingArticle2_Y=0
 
@@ -48,7 +48,7 @@ BingSBar_Y=0
 WhiteSpace_X=0
 WhiteSpace_Y=0
 
-#Coordinates to X out of the browser
+#Coordinates to 'X' out of the browser
 XOut_X=0
 XOut_Y=0
 
