@@ -1,12 +1,13 @@
 ##########################################################################
-# Brave & Bing Browser Rewards V1.1 - Windows Edition                    #
+# Brave & Bing Browser Rewards V1.1 - Windows Edition (Powershell        #
 #                                                                        #
-# Made By xCryptoPandax, edited by Kaion-Official                                                  #
+# Made By xCryptoPandax, edited by Kaion-Official                        #
 #                                                                        #
 # Use at your own risk - Not responsible for any bans / loss of BAT      #
 ##########################################################################
 
-################################################################################################################################
+____________________________________________________________________________________________________________________________________
+
 #This script is intended to work as if a human was interacting with the browser
 
 #User Input Required: Script uses coordinates of mouse, these coordinates need to be entered into the variables below.
