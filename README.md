@@ -7,7 +7,7 @@
 # Use at your own risk - Not responsible for any bans / loss of BAT      #
 ##########################################################################
 
-################################################################################################################################
+____________________________________________________________________________________________________________________________________
 
 Script for Windows (Powershell) and Linux (Bash) that does simple actions within the brave browser.
 *For Linux you will need xdotool* - install by using the following command in the terminal 'sudo apt install xdotool'
