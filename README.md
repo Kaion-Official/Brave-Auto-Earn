@@ -2,7 +2,7 @@
 ##########################################################################
 # Brave & Bing Browser Rewards V1.1                                      #
 #                                                                        #
-# Based off https://github.com/xCryptoPandax/Brave-Rewards-Automation, edited by Kaion-Official.                                                 #
+# Based off xCryptoPandax's script, edited by Kaion-Official.            #
 #                                                                        #
 # Use at your own risk - Not responsible for any bans / loss of BAT      #
 ##########################################################################
@@ -44,7 +44,7 @@ Instructions
    A.) For Windows: Open Powershell and enter the following command: 'Powershell.exe -ExecutionPolicy Unrestricted -File <File Path of script\Windows_Brave_V1.ps1>'
    B.) For Linux: Open the terminal, go to the directory the script is in and enter the following command 'bash Linux_Brave_V1.sh' 
 
-This should open brave, create a new tab, close the old tab, go to bing, click a news article, then click the next one, click the search bar, enter a number based on what cycle it's on, press enter, sleep for 2 mins before opening a new tab to show current brave balance, then x out in a repeated cycle
- ```
+This should open brave, create a new tab, close the old tab, go to bing, auto search, then click the next one, click the search bar, enter a number based on what cycle it's on, save it as a bookmark, press enter, sleep for 2 mins before opening a new tab to show current brave balance, then repeated in a continuous cycle.
+
 
 Old Setup Walkthrough - https://www.youtube.com/watch?v=FKMPjvR4wtM
