@@ -1,6 +1,6 @@
 #!/bin/bash
 ##########################################################################
-# Brave & Bing Browser Rewards V1.0 - Linux Edition                      #
+# Brave & Bing Browser Rewards V1.1 - Linux Edition                      #
 #                                                                        #
 # Made By xCryptoPandax                                                  #
 #                                                                        #
