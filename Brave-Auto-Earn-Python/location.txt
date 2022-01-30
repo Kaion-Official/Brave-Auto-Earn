@@ -1,0 +1,1 @@
+C:\Users\EXAMPLE\AppData\Local\BraveSoftware\Brave-Browser\Application\brave.exe  #REPLACE this with your own path and DELETE this text
