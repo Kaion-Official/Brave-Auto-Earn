@@ -1,13 +1,14 @@
 #!/bin/bash
 ##########################################################################
-# Brave & Bing Browser Rewards V1.1 - Linux Edition                      #
+# Brave & Bing Browser Rewards V1.2 - Linux Edition                      #
 #                                                                        #
-# Made By xCryptoPandax                                                  #
+# Made By xCryptoPandax, edited and improved by Kaion-Official           #
 #                                                                        #
 # Use at your own risk - Not responsible for any bans / loss of BAT      #
 ##########################################################################
  
 ################################################################################################################################
+
 #This script is intended to work as if a human was interacting with the browser
 
 #User Input Required: Script uses coordinates of mouse, these coordinates need to be entered into the variables below.
