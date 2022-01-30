@@ -1,5 +1,5 @@
 ##########################################################################
-# Brave & Bing Browser Rewards V1.1 - Windows Edition (Powershell        #
+# Brave & Bing Browser Rewards V1.2 - Windows Edition (Powershell)       #
 #                                                                        #
 # Made By xCryptoPandax, edited by Kaion-Official                        #
 #                                                                        #
