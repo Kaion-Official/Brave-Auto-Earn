@@ -6,7 +6,7 @@
 #                                                                        #
 # Use at your own risk - Not responsible for any bans / loss of BAT      #
 ##########################################################################
-
+ 
 ################################################################################################################################
 #This script is intended to work as if a human was interacting with the browser
 
