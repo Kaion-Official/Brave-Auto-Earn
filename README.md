@@ -1,6 +1,6 @@
 ```
 ##########################################################################
-# Brave & Bing Browser Rewards V1.1                                      #
+# Brave & Bing Browser Rewards V1.2                                      #
 #                                                                        #
 # Based off xCryptoPandax's script, edited by Kaion-Official.            #
 #                                                                        #
