@@ -1,7 +1,7 @@
 ##########################################################################
 # Brave & Bing Browser Rewards V1.2 - Windows Edition (Powershell)       #
 #                                                                        #
-# Made By xCryptoPandax, edited by Kaion-Official                        #
+# Made By xCryptoPandax, edited and improved by Kaion-Official           #
 #                                                                        #
 # Use at your own risk - Not responsible for any bans / loss of BAT      #
 ##########################################################################
