@@ -1,6 +1,6 @@
 #   Brave Auto Earn Python Alternative
 
-This python script is an alternative you can use to the other two, but possibly better.
+This python script is an alternative you can use to the other two, but in some ways this one.
 
 ## How to use
 
@@ -18,7 +18,7 @@ This python script is an alternative you can use to the other two, but possibly 
 
 -The current coordinates are setup for people with an Asus VivoBook
 
--Use a high number for the number of cycles - 1000000 will keep it running for a while!
+-Use a high number for the number of cycles - 10000000 will keep it running for a while!
 
 -You can stop the script at any time by closing brave and/or Ctrl+C.
 
@@ -26,17 +26,17 @@ This python script is an alternative you can use to the other two, but possibly 
 
 -It uses the pyautogui module - this script is best used when you do not need your pc for other tasks.
 
--Feel free to tip me :)
+-Feel free to tip me 😀
 
 ## Why use this instead?
 
--It has fewer coordinates for you to change/find (more efficient)
+-It has fewer coordinates for you to change/find (more efficient and easier to setup)
 
--Runs on multiple operating systems
+-Runs on multiple operating systems (only python 🐍 required) 
 
 -Does not bookmark advert pages
 
--It has cool orange text in the terminal :)
+-It has cool orange 🍊 text in the terminal :)
 
 
 
