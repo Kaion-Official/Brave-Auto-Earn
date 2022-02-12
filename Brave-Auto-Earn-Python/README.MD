@@ -1,6 +1,6 @@
 #   Brave Auto Earn Python Alternative
 
-This python script is an alternative you can use to the other two, but does have its' advantages 👍
+This python script is an alternative you can use to the other two, but does have its advantages 👍
 
 ## How to use
 
