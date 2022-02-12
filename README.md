@@ -50,4 +50,4 @@ Instructions
 This should open brave, create a new tab, close the old tab, go to bing, auto search, then click the next one, click the search bar, enter a number based on what cycle it's on, save it as a bookmark, press enter, sleep for 2 mins before opening a new tab to show current brave balance, then repeated in a continuous cycle.
 
 
-Old Setup Walkthrough - https://www.youtube.com/watch?v=FKMPjvR4wtM
+Setup Walkthrough for the powershell and sh scripts- https://www.youtube.com/watch?v=FKMPjvR4wtM
