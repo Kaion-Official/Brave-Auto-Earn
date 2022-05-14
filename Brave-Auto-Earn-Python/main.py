@@ -26,7 +26,12 @@ print('Make sure to have pasted the complete path to the brave executable in the
 time.sleep(2)
 
 with open("location.txt") as f:
-   location = f.read()
+    location = f.read()
+    if sys.platform == "win32":
+        os.startfile(location)
+    else:
+        opener = "open" if sys.platform == "darwin" else "xdg-open"
+        subprocess.call([opener, location])
 
 os.startfile(location)
 
