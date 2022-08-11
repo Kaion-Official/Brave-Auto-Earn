@@ -4,6 +4,7 @@ import time
 import random
 import colorama
 from colorama import *
+import sys
 
 orange = '\33[31m'
 
